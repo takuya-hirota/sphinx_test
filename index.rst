@@ -1,4 +1,4 @@
-testプロジェクトタイトルtest
+testプロジェクトタイトルtesttesttest
 ========================
 
 .. toctree::
@@ -10,7 +10,7 @@ testプロジェクトタイトルtest
     design/index
     records/index
 
-用語集・索引・検索
+用語集・索引・検索test
 ===================
 
 .. toctree::

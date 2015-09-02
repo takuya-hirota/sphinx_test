@@ -10,7 +10,7 @@ tes1123223プロジェクトタイトルtesttesttest
     design/index
     records/index
 
-用語集・索引・検索test
+用語集・索引・ねむいtest
 ===================
 
 .. toctree::
